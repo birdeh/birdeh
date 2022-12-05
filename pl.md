@@ -1,4 +1,4 @@
--- FULLBRIGHT by birdie#9124
+-- FULLBRIGHT by ricey#7090
 pcall(function()
     local lighting = game:GetService("Lighting");
     lighting.Ambient = Color3.fromRGB(255, 255, 255);
